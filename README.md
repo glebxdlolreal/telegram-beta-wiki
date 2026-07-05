@@ -14,6 +14,20 @@
 
 * [Макар Ечин](https://github.com/strokegmd/telegram-beta-wiki/blob/main/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%20%D0%95%D1%87%D0%B8%D0%BD.md) — главный мем и мишень для шуток
 
+* [Ukrain3CY](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Ukrain3CY.md) (#ливнул?) — крупнейший торговец NFT/тортами, лидер по реакциям
+
+* [CBAT_KAK_MAMA](https://github.com/strokegmd/telegram-beta-wiki/blob/main/CBAT_KAK_MAMA.md) (Alexey Vatutin) — продавец тортов и рекламы
+
+* [lobby](https://github.com/strokegmd/telegram-beta-wiki/blob/main/lobby.md) — «правитель ПСЛ», автор NFT-маркетплейса Shaft
+
+* [motka](https://github.com/strokegmd/telegram-beta-wiki/blob/main/motka.md) — гарант и торговец подарками
+
+* [redwin](https://github.com/strokegmd/telegram-beta-wiki/blob/main/redwin.md) — «копилки реакций» и раздачи
+
+* [DANIIL_PLAY](https://github.com/strokegmd/telegram-beta-wiki/blob/main/DANIIL_PLAY.md) — организатор массовых батлов юзов и конкурсов
+
+* [tromb](https://github.com/strokegmd/telegram-beta-wiki/blob/main/tromb.md) ([DSL]) — домены и NFT-теги, старожил ДСЛ
+
 # Проекты и сущности
 
 * [Voidgram](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Voidgram.md) — клон Telegram на базе MyTelegram
