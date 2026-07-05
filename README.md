@@ -28,6 +28,18 @@
 
 * [tromb](https://github.com/strokegmd/telegram-beta-wiki/blob/main/tromb.md) ([DSL]) — домены и NFT-теги, старожил ДСЛ
 
+* [dress](https://github.com/strokegmd/telegram-beta-wiki/blob/main/dress.md) (дресс) — сооснователь Voidgram, продавец NFT-юзов
+
+* [пирог](https://github.com/strokegmd/telegram-beta-wiki/blob/main/pirog.md) — админ ДСЛ, создатель Testcoin
+
+* [нанкудо](https://github.com/strokegmd/telegram-beta-wiki/blob/main/nankudo.md) — кодер Voidgram
+
+* [мадрик](https://github.com/strokegmd/telegram-beta-wiki/blob/main/madrik.md) (@anton) — первооткрыватель #frz, модератор
+
+* [кукува](https://github.com/strokegmd/telegram-beta-wiki/blob/main/kukuva.md) — админ ДСЛ, тестер
+
+* [хеликс](https://github.com/strokegmd/telegram-beta-wiki/blob/main/helix.md) — тестер Voidgram, автор «Альфаграма»
+
 # Проекты и сущности
 
 * [Voidgram](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Voidgram.md) — клон Telegram на базе MyTelegram
