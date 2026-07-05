@@ -1,16 +1,16 @@
-# Telegram Test Server Wiki
+# Telegram Beta Wiki
 
 Неофициальная вики тестового сервера Telegram. Часть фактов на страницах собрана автоматически из базы бота [testStat](https://github.com/strokegmd/telegram-beta-wiki/blob/main/testStat.md), который архивирует сообщения из чатов сервера (на данный момент — ~11,4 млн сообщений).
 
 # Участники
 
-* **strokegmd** — [строк](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strok.md) (ныне @schema): скриптописатель, дюпер, продавец NFT-юзов
+* **strokegmd** — [строк](https://github.com/strokegmd/telegram-beta-wiki/blob/main/%D0%A1%D1%82%D1%80%D0%BE%D0%BA.md) (ныне @schema): скриптописатель, дюпер, продавец NFT-юзов
 
 * **RapTheBat** — киптер: [TFRAGMENT](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Testcoin.md) и тесткоин-розыгрыши
 
-* [surge](https://github.com/strokegmd/telegram-beta-wiki/blob/main/surge.md) (@su4g3) — тестер, рекордсмен по звёздным реакциям, мем с 🦼
+* **glebxdlolreal** — [Глеб](https://github.com/strokegmd/telegram-beta-wiki/blob/main/gleb.md) (ныне @lololollol) — «технарь», разбирает внутрянку Telegram Beta и делает ботов
 
-* [Глеб](https://github.com/strokegmd/telegram-beta-wiki/blob/main/gleb.md) (ныне @lololollol) — «технарь», разбирает внутрянку Telegram Beta и делает ботов
+* [surge](https://github.com/strokegmd/telegram-beta-wiki/blob/main/surge.md) (@su4g3) — тестер, рекордсмен по звёздным реакциям, мем с 🦼
 
 * [Макар Ечин](https://github.com/strokegmd/telegram-beta-wiki/blob/main/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%20%D0%95%D1%87%D0%B8%D0%BD.md) — главный мем и мишень для шуток
 

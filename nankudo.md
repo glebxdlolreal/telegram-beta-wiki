@@ -4,7 +4,7 @@
 
 ## Роль
 
-По истории Voidgram, нанкудо вместе со [строком](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strok.md) и [дрессом](https://github.com/strokegmd/telegram-beta-wiki/blob/main/dress.md) участвовал в создании первой версии проекта в марте 2025 года. Когда строк решил покинуть войд и перестать делать обновления, именно **нанкудо стал основным кодером** проекта.
+По истории Voidgram, нанкудо вместе со [строком](https://github.com/strokegmd/telegram-beta-wiki/blob/main/%D0%A1%D1%82%D1%80%D0%BE%D0%BA.md) и [дрессом](https://github.com/strokegmd/telegram-beta-wiki/blob/main/dress.md) участвовал в создании первой версии проекта в марте 2025 года. Когда строк решил покинуть войд и перестать делать обновления, именно **нанкудо стал основным кодером** проекта.
 
 ## Примечание
 

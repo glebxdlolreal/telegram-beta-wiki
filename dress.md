@@ -1,6 +1,6 @@
 # dress (дресс)
 
-**dress** (он же **дрист** в шутку) — сооснователь [Voidgram](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Voidgram.md) и один из ключевых людей вокруг проектов [строка](https://github.com/strokegmd/telegram-beta-wiki/blob/main/strok.md). Одно из самых упоминаемых имён на тестовом сервере (**~1700 упоминаний** в базе testStat, плюс ещё ~190 как «дрист»).
+**dress** (он же **дрист** в шутку) — сооснователь [Voidgram](https://github.com/strokegmd/telegram-beta-wiki/blob/main/Voidgram.md) и один из ключевых людей вокруг проектов [строка](https://github.com/strokegmd/telegram-beta-wiki/blob/main/%D0%A1%D1%82%D1%80%D0%BE%D0%BA.md). Одно из самых упоминаемых имён на тестовом сервере (**~1700 упоминаний** в базе testStat, плюс ещё ~190 как «дрист»).
 
 ## Роль
 
